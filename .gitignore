@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Uploaded images (keep folder, exclude actual uploads)
+assets/images/*.jpg
+assets/images/*.jpeg
+assets/images/*.png
+assets/images/*.gif
+assets/images/*.webp
+# Keep the folder tracked
+!assets/images/.gitkeep
+
+# PHP error logs
+*.log
+error_log
+
+# Environment / config overrides (keep original db.php)
+.env
+
+# Setup utility (not needed in repo)
+setup_images.php
