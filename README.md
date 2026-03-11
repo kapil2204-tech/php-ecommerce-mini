@@ -1,7 +1,9 @@
 # 🛒 PHP E-Commerce Mini Website
 
-> **Academic Assignment** — Dynamic E-Commerce Mini Website using PHP & MySQL  
-> *Subject: Web Development / Database-Driven Applications*
+Name: Kapil Chauhan
+Enrollment Number: 250905091004
+Subject: Fundamentals of Web Development (FWD)
+Assignment: Mini Project ALA
 
 ---
 
